@@ -1,0 +1,28 @@
+_repo: The-Die-Varieties-of-the-Nesbitt-Series-of-United-States-Envelopes_40002
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berthold, Victor Maximilian
+    alias: Berthold, Victor M.
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '40358'
+    url: http://www.gutenberg.org/2009/agents/40358
+description: ''
+gutenberg_issued: '2012-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40002'
+  lccn: '19019521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postage stamps -- United States'
+- !lcc 'HE'
+title: The Die Varieties of the Nesbitt Series of United States Envelopes
+url: http://www.gutenberg.org/ebooks/40002
